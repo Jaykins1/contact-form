@@ -8,6 +8,8 @@ This contact forms allows you to gather the information and choices of the parti
 
 - the meal preference sections, radio selection type was used for selecting between breakfast, lunch or dinner. to allow participants choose whether to be served based on heir sitting arrangements or diatary restriction, the option tag was used to wrapp these options into each meal preference selection.
 
+i copied and pasted this process three other times in differnt fieldsets to indicate form more than one attendee. 
+
 # How to use
 Download the code and copy into an existing hmtl file. 
 run the code and view any browser of your choice. 
