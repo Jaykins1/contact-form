@@ -1,18 +1,16 @@
 # CONFERENCE CONTACT
-(collects participant information)
+This is a Conference Registration form that makes it possible to collects participant information and choices for the conference. 
 
 # DESCRIPTION
-This contact forms allows you to gather the information and choices of the participants at a conference. sections titled "personal informal", "Conference Tracks Selection" and "Meal Preference" were created as parent elements in a fieldset. 
+This contact forms allows you to gather the information of conference participants in the personal information section. space for the users to input certain details as such as Email, phone number and Fullname are provided. 
 
-- checkboxs were used for Conference track selection options, differnt sessions were nested into three options demacated by checkboxes using the option tags.
+- the participants get to choose from the following options: web development, cloud computting and UI/UX design and also decide whether rather participate in the morning sessions or evening sessions.   
 
-- the meal preference sections, radio selection type was used for selecting between breakfast, lunch or dinner. to allow participants choose whether to be served based on heir sitting arrangements or diatary restriction, the option tag was used to wrapp these options into each meal preference selection.
-
-i copied and pasted this process three other times in differnt fieldsets to indicate form more than one attendee. 
+- this form also allow the participants to decide if they'd take breakfast, lunch or dinner. 
 
 # How to use
 Download the code and copy into an existing hmtl file. 
-run the code and view any browser of your choice. 
+run the code and view in any browser of your choice. 
 
 # Find a bug ?
 if any improvements can be made to this project, please submit an issue using the issue tab above.
