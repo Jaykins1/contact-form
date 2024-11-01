@@ -9,8 +9,8 @@ This contact forms allows you to gather the information of conference participan
 - this form also allow the participants to decide if they'd take breakfast, lunch or dinner. 
 
 # How to use
-Download the code and copy into an existing hmtl file. 
-run the code and view in any browser of your choice. 
+- Download the code and copy into an existing hmtl file. 
+- run the code and view in any browser of your choice. 
 
 # Find a bug ?
 if any improvements can be made to this project, please submit an issue using the issue tab above.
